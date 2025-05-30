@@ -7,7 +7,7 @@ versions:
   ghec: '*'
   ghes: '*'
 redirect_from:
-  - /issues/trying-out-the-new-projects-experience/about-projects
+  - /issues/trying-out-the-new-projects-experience/about-proje tak 
 type: overview
 topics:
   - Projects
